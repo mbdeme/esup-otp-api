@@ -1,6 +1,6 @@
 {   
     "auto_create_user": true,
-    "proxyUrl": "",
+    "proxyUrl": "http://proxy.univ-paris1.fr:3128",
     "#how_to_proxyUrl": "If setted, API will use this proxy configurations, usually proxyURl must be like : http://username:password@univ.fr:port may be necessary for sms and mailer services",
     "api_password":"TRFXQ22FGVACGYTEFJST4TDTRF",
     "users_secret":"HFYXQ22FGVACGYTEFJST4TDVJ4",
