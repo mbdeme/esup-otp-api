@@ -8,7 +8,7 @@
     "userDb": "mongodb",
     "mongodb": {
         "address": "localhost",
-        "db": "esup-otp",
+        "db": "esup-otp7",
         "transport": {
             "mail": "mail",
             "sms": "mobile"
