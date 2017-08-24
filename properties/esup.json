@@ -2,13 +2,13 @@
     "auto_create_user": true,
     "proxyUrl": "http://proxy.univ-paris1.fr:3128",
     "#how_to_proxyUrl": "If setted, API will use this proxy configurations, usually proxyURl must be like : http://username:password@univ.fr:port may be necessary for sms and mailer services",
-    "api_password":"TRFXQ22FGVACGYTEFJST4TDTRF",
-    "users_secret":"HFYXQ22FGVACGYTEFJST4TDVJ4",
+    "api_password":"Fu5eihahlei3eaR4eivou0We",
+    "users_secret":"yah0FuquOit0thahooF6eeVi",
     "apiDb": "mongodb",
     "userDb": "mongodb",
     "mongodb": {
         "address": "localhost",
-        "db": "esup-otp7",
+        "db": "otp-p1-2",
         "transport": {
             "mail": "mail",
             "sms": "mobile"
