@@ -7,7 +7,7 @@
     "apiDb": "mongodb",
     "userDb": "mongodb",
     "mongodb": {
-        "address": "localhost",
+        "address": "owner:4f141271b4719ac845fbb652e49a19a0@localhost",
         "db": "otp-p1-2",
         "transport": {
             "mail": "mail",
