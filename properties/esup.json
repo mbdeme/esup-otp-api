@@ -61,7 +61,7 @@
             "transports" : []
         },
         "push": {
-            "serverKey" : "Contact us to obtain a server key",
+            "serverKey" : "AAAAo7TuAks:APA91bG9mEdwPuMSnUM4RHRXbg-5bxlnZWET87IU9AQgsW4KMdsEPLiR7GKwBVsBjVhC8BTWhZpYL1qJrqLN0S2ifGnI93dgovVl5M1O_sBoFyfKCEjvsLoxjR76JXIQeQfC7wK0ykg0",
             "activate": true,
 	    "title":"Esup Auth",
 	    "body" :"Demande de connexion à votre compte",
